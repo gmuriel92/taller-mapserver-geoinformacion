@@ -81,6 +81,13 @@ SYMBOL
 	IMAGE 'norte.png'
 END
 
+SYMBOL
+	NAME 'rosavientos2'
+	TYPE PIXMAP
+	IMAGE 'norte2.png'
+END
+
+
 END
 
 
